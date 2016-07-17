@@ -1,0 +1,2 @@
+#!/bin/zsh 
+brew cask install appcleaner iterm2-beta postgres spectacle virtualbox ccleaner java rcdefaultapp sts virtualbox-extension-pack dockertoolbox java7 sequel-pro sublime-text google-chrome mongochef sourcetree vagrant visual-studio-code intellij-idea android-studio diffmerge vlc netbeans github-desktop
